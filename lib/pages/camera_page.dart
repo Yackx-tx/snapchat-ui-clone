@@ -256,4 +256,4 @@ class _CameraPageState extends State<CameraPage> {
   }
 }
 
-// Build Checkpoint: 825488
+// Build Checkpoint: 4ccf2a
