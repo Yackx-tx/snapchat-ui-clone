@@ -4,7 +4,7 @@
         android:label="snapchat_ui"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyA2DSm35lBIjjXw_tQe5XZ-WQM3oBwB81g"/>
+               android:value="YOUR_GOOGLE_MAPS_API_KEY"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
